@@ -28,9 +28,9 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/rafael.azizovv/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tilakkhatri/"><img src="https://img.shields.io/badge/-@tilakkhatri?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:khatritilak956@gmail.com"><img src="https://img.shields.io/badge/tilak-email-orange"/></a>
+<a href="https://www.instagram.com/tilak.a1/"><img src="https://img.shields.io/badge/Tilak-instagram-yellowgreen"/></a>
+<a href="https://www.facebook.com/tilak.khatri.50309277/"><img src="https://img.shields.io/badge/Tilak-facebook-brightgreen"/></a>
   <a href="https://www.twitter/@TILAK2058" >
   <img src="https://img.shields.io/badge/%40TILAK2058-twitter-blue" />
   </a>
