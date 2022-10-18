@@ -25,8 +25,8 @@
 
 
 
-  ### 🤝🏻 &nbsp;Connect with Me
 
+<h2>🤝🏻 Connect with Me😎</h2>
 <p align="center">
 <a href="mailto:khatritilak956@gmail.com"><img src="https://img.shields.io/badge/tilak-email-orange"/></a>
 <a href="https://www.instagram.com/tilak.a1/"><img src="https://img.shields.io/badge/Tilak-instagram-yellowgreen"/></a>
