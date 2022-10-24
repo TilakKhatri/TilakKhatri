@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-firebase-orange" />
 </p>
 
 
