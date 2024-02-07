@@ -21,15 +21,29 @@
   <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-firebase-orange" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="ttps://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="ttps://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+<!--     <img src="" />
+    <img src="" /> -->
 </p>
 
 
 <h2 align="center">🤝🏻 Connect with Me😎</h2>
 <p align="center">
-<a href="mailto:khatritilak956@gmail.com"><img src="https://img.shields.io/badge/tilak-email-orange"/></a>
+<a href="mailto:tilakkhatri0001@gmail.com"><img src="https://img.shields.io/badge/tilak-email-orange"/></a>
 <a href="https://www.instagram.com/tilak.a1/"><img src="https://img.shields.io/badge/Tilak-instagram-yellowgreen"/></a>
 <a href="https://www.facebook.com/tilak.khatri.50309277/"><img src="https://img.shields.io/badge/Tilak-facebook-brightgreen"/></a>
   <a href="https://www.twitter/@TILAK2058" >
   <img src="https://img.shields.io/badge/%40TILAK2058-twitter-blue" />
   </a>
+   <a href="https://www.linkedin/TilakKhatri" >
+  <img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 </p>
