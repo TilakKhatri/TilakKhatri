@@ -57,4 +57,5 @@ Click here [link](https://tilakkhatri.com.np/post)
 * desire ecommerce - This is for user to analyse products and category [link](https://desire.tilakkhatri.com.np/)
 
 ## 🎊 Few of my projects on Data Engineering and Tool development:
-* CodeSpectrum (vscode extension) - [link](https://marketplace.visualstudio.com/items?itemName=TilakKhatri.CodeSpectrum&ssr=false#review-details) 
+* CodeSpectrum (vscode extension) - [link](https://marketplace.visualstudio.com/items?itemName=TilakKhatri.CodeSpectrum&ssr=false#review-details)
+* Simple ETL list of companies from wikipedia - [link](https://github.com/TilakKhatri/company-list-nepal)
