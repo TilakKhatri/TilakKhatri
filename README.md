@@ -50,9 +50,11 @@
 
 ## Visit my own blog site.
 Click here [link](https://tilakkhatri.com.np/post)
-## 🎊 Few of my projects:
+## 🎊 Few of my projects on Web development:
 * merogpt - A sass product, you will get all open ai feature in one platform [link](https://merogpt.tilakkhatri.com.np/)
 * restoFood - Collection of apis for online food ordering app [link](https://documenter.getpostman.com/view/23813986/2sA2r813hG#0cd57c82-5d7c-4ae6-8ab3-a5d608952de1)
 * IMS system - This system is for ecommerce users (Merchant and System admin) [link](https://ims.tilakkhatri.com.np/)
 * desire ecommerce - This is for user to analyse products and category [link](https://desire.tilakkhatri.com.np/)
+
+## 🎊 Few of my projects on Data Engineering and Tool development:
 * CodeSpectrum (vscode extension) - [link](https://marketplace.visualstudio.com/items?itemName=TilakKhatri.CodeSpectrum&ssr=false#review-details) 
