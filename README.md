@@ -37,12 +37,12 @@
 <h2 align="center">🤝🏻 Connect with Me😎</h2>
 <p align="center">
 <a href="mailto:tilakkhatri0001@gmail.com"><img src="https://img.shields.io/badge/tilak-email-orange"/></a>
-<a href="https://www.instagram.com/tilak.a1/"><img src="https://img.shields.io/badge/Tilak-instagram-yellowgreen"/></a>
-<a href="https://www.facebook.com/tilak.khatri.50309277/"><img src="https://img.shields.io/badge/Tilak-facebook-brightgreen"/></a>
-  <a href="https://www.twitter/@TILAK2058" >
+<a href="https://www.instagram.com/tilak.a1/" target="_blank"><img src="https://img.shields.io/badge/Tilak-instagram-yellowgreen"/></a>
+<a href="https://www.facebook.com/tilak.khatri.50309277/" target="_blank"><img src="https://img.shields.io/badge/Tilak-facebook-brightgreen"/></a>
+  <a href="https://www.twitter/@TILAK2058" target="_blank" >
   <img src="https://img.shields.io/badge/%40TILAK2058-twitter-blue" />
   </a>
-   <a href="https://www.linkedin/TilakKhatri" >
+   <a href="https://www.linkedin/TilakKhatri" target="_blank">
   <img src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
