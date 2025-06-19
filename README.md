@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/96524338/195518660-de85a102-ae2d-42f7-86d0-7e6e843b7dce.png" width="16px" height="20px" />
   Namaste , I'm Tilak <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mono&size=25&pause=1000&color=24B612&center=true&vCenter=true&width=500&lines=Doing+Webdev.;Love+To+Develop+that+help+people.;Eagar+for+new+Technology.;Security+Enthusiast.;Noob+😎" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mono&size=25&pause=1000&color=24B612&center=true&vCenter=true&width=500&lines=Eager+for+new+Technology.;Security+Enthusiast.;Noob+😎" alt="Typing SVG" /></a>
 
 
 
